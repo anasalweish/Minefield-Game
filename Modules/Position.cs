@@ -16,4 +16,3 @@
                Col == position.Col;
     }
 }
-

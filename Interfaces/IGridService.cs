@@ -5,4 +5,3 @@
     bool TryMove(Position currentPosition, string direction, out Position newPosition);
     bool HasMine(Position position);
 }
-

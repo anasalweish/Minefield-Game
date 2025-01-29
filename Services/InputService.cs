@@ -2,4 +2,3 @@
 {
     public string GetInput() => Console.ReadLine();
 }
-
